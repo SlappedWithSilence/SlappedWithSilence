@@ -1,5 +1,5 @@
 -  Hi, I’m @SlappedWithSilence
--  I’m interested in building highlyreadable, maintainable software.
+-  I’m interested in building highly readable, maintainable software.
 -  I’m currently learning how to build effective distributed systems using Spark, PySpark specifically.
 
 <!---
